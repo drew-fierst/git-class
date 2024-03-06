@@ -7,3 +7,6 @@ other developer creates e-commerce feature
 blog blog blog
 
 changes on main branch, to create a merge conflict!
+
+another developer created their feature here!
+
