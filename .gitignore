@@ -1,0 +1,11 @@
+# this is a comment
+
+# user-specific files
+*.suo
+*.user
+
+# build results
+[Bb]in/
+[Dd]ebug/
+[Rr]elease/
+
