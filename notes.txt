@@ -4,4 +4,6 @@ fixing some bug that they just told me about.
 
 other developer creates e-commerce feature
 
+blog blog blog
+
 changes on main branch, to create a merge conflict!
