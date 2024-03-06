@@ -3,3 +3,5 @@ Some details about the project.
 fixing some bug that they just told me about.
 
 other developer creates e-commerce feature
+
+changes on main branch, to create a merge conflict!
