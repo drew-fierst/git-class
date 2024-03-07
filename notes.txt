@@ -20,3 +20,4 @@ tiger
 its
 fleece
 was
+white
